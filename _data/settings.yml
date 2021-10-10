@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Isabel lawton
 header_feature_image: ../uploads/samuel-regan-asante-wmkamxtjjlq-unsplash.jpg
 header_text: Lights, Camera, Typography!
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 60vmax
 navbarheight: 55px
 logo: ../uploads/logo-2-.png
 favicon: /uploads/favicon.ico
