@@ -4,13 +4,16 @@ title: Super typography
 date: 2021-10-08T16:08:30.798Z
 image: ../uploads/mulyadi-qcyobglsgjm-unsplash.jpg
 title_color: "#ffffff"
+caption: Typography is important when it comes to all movies, but especially in
+  super ones. They need to be as big and as loud as the movie/character it is
+  trying to present.
 comments: false
 ---
 **Action!**
 
 Typography is important when it comes to all movies, but especially in super ones. They need to be as big and as loud as the movie/character it is trying to present.
 
-## Birds of prey and the fantabulous empancipation of one Harley Quinn
+## Birds of prey and the fantabulous emancipation of one Harley Quinn
 
 ![www.fanpop.com ](../uploads/th-4.jpg "Birds of prey and the fantabulous empancipation of one Harley Quinn ")
 
