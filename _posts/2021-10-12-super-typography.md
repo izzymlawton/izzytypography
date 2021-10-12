@@ -4,12 +4,10 @@ title: Super typography
 date: 2021-10-08T16:08:30.798Z
 image: ../uploads/mulyadi-qcyobglsgjm-unsplash.jpg
 title_color: "#ffffff"
-caption: Typography is important when it comes to all movies, but especially in
-  super ones. They need to be as big and as loud as the movie/character it is
-  trying to present.
+caption: super
 comments: false
 ---
-**Action!**
+**Super typography take 1: Action!**
 
 Typography is important when it comes to all movies, but especially in super ones. They need to be as big and as loud as the movie/character it is trying to present.
 
