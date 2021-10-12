@@ -9,7 +9,7 @@ caption: Typography is important when it comes to all movies, but especially in
   trying to present.
 comments: false
 ---
-**Action!**
+**Super typography take 1: Action!**
 
 Typography is important when it comes to all movies, but especially in super ones. They need to be as big and as loud as the movie/character it is trying to present.
 
