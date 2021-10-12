@@ -21,4 +21,6 @@ I've lived in the UK all my life, go to university at Oxford Brookes and I am a 
 
  With all the constant stream of new entertainment coming out rapidly, movie marketers have to keep their designs fresh and exciting if they want their movie to stand out. This blog looks at how they do that through the use of typography. 
 
+![https://unsplash.com/photos/tGHkC5ntUGc](../uploads/jeet-dhanoa-tghkc5ntugc-unsplash.jpg)
+
 **Cut!**
