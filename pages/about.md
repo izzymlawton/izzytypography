@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: About
+title: Isabel Lawton
 image: ../uploads/jon-tyson-a-obuh61bkw-unsplash.jpg
 subtitle: "Me: directors cut"
 permalink: /about/
