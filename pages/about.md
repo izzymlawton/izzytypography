@@ -1,20 +1,24 @@
 ---
-layout: page
-title: About
-permalink: /about/
-date: 2020-06-29T15:36:12.231Z
 header_feature_image: /uploads/log.jpg
+title: About
+image: ../uploads/jon-tyson-a-obuh61bkw-unsplash.jpg
+subtitle: "Me: directors cut"
+permalink: /about/
+date: 2020-10-09T15:36:12.231Z
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+**Action!**
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Hi, I'm Isabel Lawton and this is my blog all about the typography you see in movie posters, from past to present. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I've lived in the UK all my life, go to university at Oxford Brookes and I am a big movie lover.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+![https://www.brookes.ac.uk/about-brookes/corporate-identity/oxford-brookes-logos/ ](../uploads/brookes_logo_charcoal_rgb.jpg "Oxford brookes ")
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+ With all the constant stream of new entertainment coming out rapidly, movie marketers have to keep their designs fresh and exciting if they want their movie to stand out. This blog looks at how they do that through the use of typography. 
+
+**Cut!**
