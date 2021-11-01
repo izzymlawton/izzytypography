@@ -11,4 +11,6 @@ favicon: ../uploads/logo-2-.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
-items: []
+items:
+  - name: "About me: Isabel Lawton"
+    siteurl: /aboutme/
