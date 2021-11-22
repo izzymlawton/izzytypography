@@ -31,3 +31,9 @@ The sickish looking yellow colour used in the title shows the genre quite well a
 ## He's out there
 
 ![horrorpatch.tumbler.com](../uploads/hes-out-there.jpg "he's out there ")
+
+The handwritten effect seen in the two previous posters can also be seen in 'He's out there'. This hasty looking handwritten effect with the use of all capitals and uneven runoffs of the letters gives it the impression that it is a written warning from someone. This makes sense for the movie as it is about a mother and her children running from a murder, and the title gives a warning that the killer is out there. 
+
+The use of the bright red of the title contrasts well with the mainly grey and black and white imagery with it also symbolising the look of blood, with messages written in blood being a classic horror movie trait. The boldness of the colour also helps separate the two images used in the poster, helping to create the appearance of being chased. 
+
+The boldness also helps juxtapose the subheading 'Terror is lurking'. This typography is a lot smaller in text size with the monospacing and serifs creating a more composed message. This with the capitalisation of 'terror' and 'lurking' shows the audience what it should be focusing on, and like in the 'trick or treat' poster, shows that when you take a closer look you will find hidden dangers.
