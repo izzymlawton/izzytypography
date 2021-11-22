@@ -12,7 +12,7 @@ Typography should creep out audiences, make them feel on edge when it comes to h
 
 ## Trick 'r Treat
 
-![www.horrorsociety.com](../uploads/trick-or-teat-.jpg "trick or treat ")
+![www.horrorsociety.com](../uploads/trick-or-treat-real.jpg "trick or treat ")
 
 'Trick 'r treat' provokes this by using handwritten looking typography, this with the missing 'o' to abbreviate 'or' gives it a childish effective, like if it was a child that had craved it; which is appropriate as the movie focuses on one child in particular (Sam \[pictured on the poster]). The chaotic and random aspects of the typography are commonly used in scary movies posters, as it can make it more creepy to the audience, as when you look closer nothing is what it seems. For example the random changes to Capitals to small caps like the 'A' in 'treat', and the differences in 'X' heights and baselines between the letters. 
 
@@ -20,7 +20,7 @@ The most noticeable creepy aspect of the typography is the use of colour and the
 
 ## The Hallow
 
-![www.scfinow.com](../uploads/the-hallow.jpg "the hallow ")
+![www.scfinow.com](../uploads/hallow-real.jpg "the hallow ")
 
 'The Hallows' title is a novelty with the typography of the title making it look like trees (the trees of the hallow). With the unnerving handwritten look that 'trick or treat' also possessed. However, this title has a more organic look to it as the main focus of the film is of course the forest that surrounds the main characters (the hallow), using the main theme for the title shows how overpowering it is, with the title almost 'growing' from the page out of the images of the trees, encapsulating how the forest will absored and overwhelm you. 
 
@@ -30,7 +30,7 @@ The sickish looking yellow colour used in the title shows the genre quite well a
 
 ## He's out there
 
-![horrorpatch.tumbler.com](../uploads/hes-out-there.jpg "he's out there ")
+![horrorpatch.tumbler.com](../uploads/hes-out-there-real.jpg "he's out there ")
 
 The handwritten effect seen in the two previous posters can also be seen in 'He's out there'. This hasty looking handwritten effect with the use of all capitals and uneven runoffs of the letters gives it the impression that it is a written warning from someone. This makes sense for the movie as it is about a mother and her children running from a murder, and the title gives a warning that the killer is out there. 
 
