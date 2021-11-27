@@ -6,7 +6,7 @@ image: ../uploads/nong-vang-5eoaopiq56u-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-Horror typography take 1: Action!
+**Horror typography take 1: Action!**
 
 Typography should creep out audiences, make them feel on edge when it comes to horrifying films.
 
