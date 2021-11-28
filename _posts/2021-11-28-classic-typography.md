@@ -28,3 +28,9 @@ The title also uses red scouring in the letters of the text to help add dimensio
 ## The Wizard of Oz
 
 ![movieposters.com](../uploads/wizard-of-oz-2.jpg "wizard of Oz")
+
+The Wizard of Oz is probably one of the most iconic and classic musicals ever, with the typography in the poster conveying many iconic themes that take place in the movie. 
+
+The most noticeable would be how the whole title is made up (filled) with yellow bricks, giving a reference to the yellow brick road, and the outline being red symbolising the classic ruby slippers and even the meadow of poppies the characters fall under a spell in. The two diamonds under the title also representing the two witches and Emerald City.
+
+The font in general is very whimsical, with a slight seif and big uneven lettering, with all of the different base or cap heights, with the 'W' in 'Wizard' being flamboyant almost representing how the wizard has to appear to not be exposed. The 'W' also mirrors that of Willy Wonka's typography style in 'Charlie and the chocolate factory' which came out in 1971 about 60 years after Wizard of Oz, with that also being a similar kind of musical, it could be argued the producers wanted to match the success of the film by reminding people of another beloved musical which also was magical and whimsical.
