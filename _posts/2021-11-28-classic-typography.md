@@ -2,7 +2,7 @@
 layout: post
 title: "classic typography "
 date: 2021-11-27T23:57:17.168Z
-image: ../uploads/marilynmonroe.jpeg
+image: ../uploads/marilyn-monroe.jpg
 title_color: "#ffffff"
 comments: false
 ---
