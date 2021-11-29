@@ -2,7 +2,7 @@
 layout: post
 title: "love typography "
 date: 2021-10-10T17:14:43.025Z
-image: ../uploads/jamie-street-hbzrr6m6-pc-unsplash.jpg
+image: ../uploads/rose.jpg
 title_color: "#ffffff"
 caption: "romance films "
 comments: false
