@@ -2,6 +2,7 @@
 layout: post
 title: "funny typography "
 date: 2021-11-29T00:06:32.798Z
+image: ../uploads/laughing.jpg
 title_color: "#ffffff"
 comments: false
 ---
