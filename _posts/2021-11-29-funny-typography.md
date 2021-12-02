@@ -20,3 +20,11 @@ The handwritten effect is ongoing throughout the poster with a subheading showin
 ## Kingsman
 
 ![www.themoviedb.com](../uploads/kingsman.jpg "kingsman")
+
+Kingsman doesn't use a stereotypical type of typography for a comedy, with comedies with normally bold, all capitals and novelty fonts. Kingsman uses a serif, times new roman font, in gold for the main title of 'Kingsman', creating a royal, elegant and sophisticated appearance. However, this fits well with the theme of the movie as it is about British secret agents that have the theme of King Arthur and his knights. 
+
+The word 'Kingsman' is quite different from the sub-title 'the secret service', this shows the audience that 'kingsman' is the franchise and 'the secret service' is the title of the movie, this helps with the continuity of a series of films (3 by December 2021). The sub-title switches to a san-serif font with the white letters all capitals and a monospaced typeface, with the use of big spaces in between the words to add a sense of importance by the use of white space. The sub-title is also underlined in the same white colour with a symbol of the 'organisation' matching it in the middle directing more attention to the name of the film.
+
+## Paul
+
+![fanart.tv](../uploads/paul.jpg "paul")
