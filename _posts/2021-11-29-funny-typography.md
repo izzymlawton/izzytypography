@@ -27,4 +27,10 @@ The word 'Kingsman' is quite different from the sub-title 'the secret service', 
 
 ## Paul
 
-![fanart.tv](../uploads/paul.jpg "paul")
+![fanart.tv](../uploads/paulreal.jpg "paul")
+
+Paul uses a big and simple typeface, with massive bold clean white letters. Using monospaced and rigid lettering. With the use of SCIFI and the main character being an alien, this makes sense. It also goes with the genre of comedy as it is short and bold, fitting with the type of jokes used, being quick and snappy with bold premises. 
+
+This kind of typography, with bold and simple types, is quite common as it stands out and is easier for the audience to remember, hopefully, so people will remember the title and go and see the movie. This can be seen in such movies like Disney's 'UP' and Univeral's 'JAWS'.
+
+The most notable thing in the title would be the novelty imagery of an iconic Alien head being used to make the letter 'A'. This head also looks like the main character 'Paul', showing the audience that he is again the center of the film, matching a self-centered attitude the character has.
