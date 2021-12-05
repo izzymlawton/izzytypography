@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "horror typography "
-date: 2021-11-21T17:56:32.438Z
+date: 2021-11-01T23:30:26.947Z
 image: ../uploads/nong-vang-5eoaopiq56u-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-**Horror typography take 1: Action!**
+**Horror typography take 1: ACTION!**
 
 Typography should creep out audiences, make them feel on edge when it comes to horrifying films.
 
