@@ -7,7 +7,7 @@ title_color: "#ffffff"
 caption: super
 comments: false
 ---
-**Super typography take 1: Action!**
+**Super typography take 1: ACTION!**
 
 Typography is important when it comes to all movies, but especially in super ones. They need to be as big and as loud as the movie/character it is trying to present.
 
