@@ -1,7 +1,8 @@
 ---
 layout: post
 title: childish typography
-date: 2021-12-05T21:10:12.975Z
+date: 2021-12-01T21:10:12.975Z
+image: ../uploads/child.jpg
 title_color: "#ffffff"
 comments: false
 ---
