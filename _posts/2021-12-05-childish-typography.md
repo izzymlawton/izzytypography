@@ -5,6 +5,8 @@ date: 2021-12-05T21:10:12.975Z
 title_color: "#ffffff"
 comments: false
 ---
+**childish typography take 1: ACTION**
+
 Typography should grab your attention and memorable ones should stay with you. Creating magic for children's imaginations. 
 
 ## Tangled
@@ -26,3 +28,5 @@ Though 'Nemo' has the same monospaced look with equal cap heights of the letters
 ## Barbie: as the princess and the pauper
 
 ![fanart.tv](../uploads/barbie-p-p.jpg "barbie: princess and the pauper")
+
+The typography of 'the princess and the pauper' uses juxtaposition to show the differences and similarities of the two characters
