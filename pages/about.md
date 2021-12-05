@@ -13,13 +13,15 @@ show: true
 ---
 **Action!**
 
-Hi, I'm Isabel Lawton and this is my blog all about the typography you see in movie posters, from past to present. 
+I am a big movie lover, and one of the best things about the movie industry are the posters made.
 
-I've lived in the UK all my life, go to university at Oxford Brookes and I am a big movie lover.
+![unsplash/Adrian Cogua](../uploads/popcorn-about-.jpg "popcorn")
 
-![https://www.brookes.ac.uk/about-brookes/corporate-identity/oxford-brookes-logos/ ](../uploads/brookes_logo_charcoal_rgb.jpg "Oxford brookes ")
+With all the constant stream of new entertainment coming out rapidly, movie marketers have to keep their designs fresh and exciting if they want their movies to stand out. This blog looks at how they do that through the use of typography, typeface, composition, and colour. 
 
- With all the constant stream of new entertainment coming out rapidly, movie marketers have to keep their designs fresh and exciting if they want their movies to stand out. This blog looks at how they do that through the use of typography, by the typeface, composition and colour. 
+Typography should inspire, make you laugh, scare you, reminisce, and create all manner of feelings that the movie in question will convey to you. It should be eye-catching enough to make you remember that poster you saw on a bus or a wall once and create an urge to see the film. 
+
+From the use of handwritten to rigid effects, bold and big to small and dainty. These articles will explain how certain uses of typefaces and fonts create a connection to the characters and elicit the emotions and themes connected to the films.  Including; superheroes, horror, comedies, romance, the classics, and children's.
 
 ![https://unsplash.com/photos/tGHkC5ntUGc](../uploads/jeet-dhanoa-tghkc5ntugc-unsplash.jpg)
 
