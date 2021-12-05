@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "classic typography "
-date: 2021-11-27T23:57:17.168Z
+date: 2021-11-16T23:57:17.168Z
 image: ../uploads/marilyn-monroe.jpg
 title_color: "#ffffff"
 comments: false
 ---
-**Classic typography take 1: Action!**
+**Classic typography take 1: ACTION!**
 
 A lot of movies throughout the years have been deemed by society as being 'one of the classics'. The typography used in the official movie posters needs to be timeless and unforgettable, whilst representing the movie in question.
 
