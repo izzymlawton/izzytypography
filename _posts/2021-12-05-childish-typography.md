@@ -29,4 +29,6 @@ Though 'Nemo' has the same monospaced look with equal cap heights of the letters
 
 ![fanart.tv](../uploads/barbie-p-p.jpg "barbie: princess and the pauper")
 
-The typography of 'the princess and the pauper' uses juxtaposition to show the differences and similarities of the two characters
+The typography of 'the princess and the pauper' uses juxtaposition to show the differences and similarities of the two characters. For the word 'Princess', they use big handwritten calligraphy style font with massive loops and flicks, this with the low consitancy of the thickness of the lettering creating 'flicks', giving it a elegant, regal and high educated and profile look, with the use of purple couring also representing the regalness of the princess.
+
+For the word 'Pauper' the typeface is more subdude, the consitancy of the thickness of the lettering is more even and even though it also has a handwritten look the serifs and loops/flicks are smaller, less
