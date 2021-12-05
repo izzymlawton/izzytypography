@@ -7,17 +7,17 @@ title_color: "#ffffff"
 caption: "romance films "
 comments: false
 ---
-**Romance typography take 1: Action!**
+**Romance typography take 1: ACTION!**
 
 Typography should inspire and entrance the audience. Needing to capture the delicate and romantic outlook of the films.
 
-## The fault in our stars 
+## The fault in our stars
 
 ![www.reellifewithjane.com](../uploads/fault-in-our-stars-movie-poster-full-copy.jpg "fault in our stars ")
 
 “The fault in our stars” uses a very handwritten and low contrast typeface almost looking like it has been written with chalk this also being helped with the lightweight look. The casual and organic look can show the demographic for the film is aimed towards a younger audience (teens). With the letters still being all caps with a fairly even cap-height even with the organic look. The colours also can represent the movie well; with not only being used to stand out from the darker background but also with blue and white, while not being traditional romantic colours like the normal red and pink, can represent the colours you would normally find in a hospital, like doctors and nurses’ scrubs, this plays in well with the movie has it is about to ill and dying teenagers.
 
-## Me before you 
+## Me before you
 
 ![www.fanpop.com](../uploads/me-before-you-movie-poster-movie-trailers-40097762-640-843.jpg "me before you ")
 
@@ -25,7 +25,7 @@ Typography should inspire and entrance the audience. Needing to capture the deli
 
 Some of the letters are also joined together, notably the ‘M’ in me and ‘B’ in before, this can relate to the relationship of the two main characters in the movie being connected. The colours for the surrounding words are red, a colour often associated with love and romance, represents the movie well but these being different from the title with that being a nearly white cream, adding to the maturity and elegance, with also projecting delicacy, representing how delicate their relationship is with the protagonist also being terminally ill. Death seems to be a big theme in romance movies.
 
-## Titanic 
+## Titanic
 
 ![pics.alphacoders.com ](../uploads/th.jpg "titanic")
 
