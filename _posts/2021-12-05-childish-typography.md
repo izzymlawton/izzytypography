@@ -18,3 +18,11 @@ However, along with the elegancy of the typeface, there is also a roughness and 
 ## Finding Nemo
 
 ![fanart.tv](../uploads/nemo.jpg "finding nemo")
+
+Finding Nemo is one of the most iconic children's films ever. With nearly everyone having watched. The typography it uses is big and bold. With crisp white colouring of the letters on a blue background with the use of capitals creates a strong and attention-seeking look, this could mirror the urgency and the seeking for Nemo by Marlin. The word 'Finding' uses monospaced rigid capitals with Nemo matching this, however, the word 'Nemo' has a twist.
+
+Though 'Nemo' has the same monospaced look with equal cap heights of the letters, the baselines of each letter are all different due to the underlining of the word. This underline is smooth and flows across, giving an almost caligraphy look to it, which in turn represents a wave of the ocean, referencing the ocean. The wave effect is also encompassed by how the letter has been cut off where the 'wave' is, creating the imagery of how waves cut into the sand. the references to the ocean and the creatures inside can also be seen in the 'O' of Nemo to make the 'O' they have used a silhouette of a fish, which can represent Nemo, drawing the focus back to the missing fish.
+
+## Barbie: as the princess and the pauper
+
+![fanart.tv](../uploads/barbie-p-p.jpg "barbie: princess and the pauper")
