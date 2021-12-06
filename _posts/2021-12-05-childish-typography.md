@@ -12,7 +12,7 @@ Typography should grab your attention and memorable ones should stay with you. C
 
 ## Tangled
 
-![www.pintrest](../uploads/tangled.jpg "tangled")
+![www.pintrest](../uploads/mv5bmtaxndyxmjg0mjneqtjeqwpwz15bbwu3mdcyntk2otm-._v1_fmjpg_ux1000_.jpg "tangled")
 
 The magical land of princesses that is Disney needs to match the iconic brand. This typography uses a classic serif font and a gold metallic colour to symbolise the royalty and princess stature of Rapunzel. It also uses the dramatic flick of the 'G' to mirror her hair, (which is a major theme of the movie). This also represents the time period the film was based in as dramatic loops and serif handwritten fonts were the handwriting of the monks (who were some of the only people who had the ability to write).
 
