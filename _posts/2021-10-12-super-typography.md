@@ -33,6 +33,12 @@ The title is a rigid monospace in a blocky san serif font with high contrast on 
 
 ![www.themoviedb.org ](../uploads/guardians-of-the-galaxy-poster-2.jpg "guardians of the galaxy")
 
-“Guardians of the galaxy” has used another monospace typeface with the title with the baseline also being the same throughout, just like the previous one. However, it uses the use of slight serifs to create a sharp regal gagged look. With it being more on the rigid digital side, it is perfect for an action Sci-Fi feature. The high contrast of the gold to the dark background makes the title stand out, even with the busy images and many characters on the poster. Showing that because of its comic book roots the name ‘Guardians of the galaxy’ is already quite well know and due to the community of marvel fans surrounding it, it already has a large following.
+“Guardians of the galaxy” has used another monospace typeface with the title with the baseline also being the same throughout, just like the previous one. However, it uses the use of slight serifs to create a sharp regal gagged look. With it being more on the rigid digital side, it is perfect for an action Sci-Fi feature. 
+
+This rigid and sharp look can also represent the characters well as the same sharpness can be seen in Gamora’s swords and the gold metallic colour is like the material of a space ship again bringing in the Sci-Fi elements. 
+
+The high contrast of the gold to the dark background makes the title stand out, even with the busy images and many characters on the poster. Showing that because of its comic book roots the name ‘Guardians of the galaxy’ is already quite well know and due to the community of marvel fans surrounding it, it already has a large following.
+
+The typography of the logo marvel is iconic, as being one of the biggest movie franchises. The bold monospaced white letters against the scarlet background creates drama and explosive look, going perfectly with the action-packed superhero movies they are best known for. 
 
 **Cut!**
